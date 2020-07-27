@@ -1,9 +1,9 @@
 # STL
-### Standard Template Library
+## Standard Template Library
 
 The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks, arrays, etc. It is a library of container classes, algorithms, and iterators. It is a generalized library and so, its components are parameterized. A working knowledge of template classes is a prerequisite for working with STL.
 
-#### STL has four components
+### STL has four components
 
 * Algorithms
 * Containers
@@ -11,7 +11,7 @@ The Standard Template Library (STL) is a set of C++ template classes to provide 
 * Iterators
 
 
-<h4 align="center">Algorithms</h4>
+<h3 align="center">Algorithms</h3>
 
 The header algorithm defines a collection of functions especially designed to be used on ranges of elements.They act on containers and provide means for various operations for the contents of the containers.
 
@@ -26,7 +26,7 @@ The header algorithm defines a collection of functions especially designed to be
    * valarray class
   
   
-<h4 align="center">Containers</h4>
+<h3 align="center">Containers</h3>
 
 
 Containers or container classes store objects and data. There are in total seven standard “first-class” container classes and three container adaptor classes and only seven header files that provide access to these containers or container adaptors.
@@ -60,20 +60,20 @@ Containers or container classes store objects and data. There are in total seven
 
 <p align="center">Flowchart of Sequence conatiners and ordered containers</p>
 
-<h4 align="center">Functions</h4>
+<h3 align="center">Functions</h3>
 
 The STL includes classes that overload the function call operator. Instances of such classes are called function objects or functors. Functors allow the working of the associated function to be customized with the help of parameters to be passed.
 
   * Functors
 
-<h4 align="center">Iterators</h4>
+<h3 align="center">Iterators</h3>
 
 As the name suggests, iterators are used for working upon a sequence of values. They are the major feature that allow generality in STL.
 
   * Iterators
   
-<h4 align="center">Utility Library</h4>
+<h3 align="center">Utility Library</h3>
 
-Defined in header <utility>.
+Defined in header "utility".
 
   * pair
