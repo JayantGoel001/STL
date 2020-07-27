@@ -73,13 +73,13 @@ As the name suggests, iterators are used for working upon a sequence of values. 
 
   * Iterators
   
-  Types of Iterators :
+    Types of Iterators :
 
-   * Input Iterators
-   * Output Iterators
-   * Forward Iterator
-   * Bidirectional Iterators
-   * Random-Access Iterators
+    * Input Iterators
+    * Output Iterators
+    * Forward Iterator
+    * Bidirectional Iterators
+    * Random-Access Iterators
   
 <h3 align="center">Utility Library</h3>
 
