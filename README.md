@@ -80,7 +80,7 @@ As the name suggests, iterators are used for working upon a sequence of values. 
       A entity through which you can read data from container and move ahead. For Example - A Keyboard
     * Output Iterators:
     
-      A entity through which you can write into the container and move ahead.
+      A entity through which you can write into the container and move ahead. For Example - A Printer
     * Forward Iterator:
     
       Iterator with functionalities of input and output iterator in single direction.For Example - Singly Linked List
