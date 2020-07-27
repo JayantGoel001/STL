@@ -55,9 +55,10 @@ Containers or container classes store objects and data. There are in total seven
   * unordered_map (Introduced in C++11)
   * unordered_multimap (Introduced in C++11)
 
+![](https://github.com/CormacKrum/STL/blob/master/ss1.png)
 <p align="center">Flowchart of Adaptive Containers and Unordered Containers</p>
 
-
+![](https://github.com/CormacKrum/STL/blob/master/ss2.png)
 <p align="center">Flowchart of Sequence conatiners and ordered containers</p>
 
 <h3 align="center">Functions</h3>
