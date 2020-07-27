@@ -73,13 +73,23 @@ As the name suggests, iterators are used for working upon a sequence of values. 
 
   * Iterators
   
-    Types of Iterators :
+    #### Types of Iterators :
 
-    * Input Iterators
-    * Output Iterators
-    * Forward Iterator
-    * Bidirectional Iterators
-    * Random-Access Iterators
+    * Input Iterators:
+    
+      A entity through which you can read data from container and move ahead. For Example - A Keyboard
+    * Output Iterators:
+    
+      A entity through which you can write into the container and move ahead.
+    * Forward Iterator:
+    
+      Iterator with functionalities of input and output iterator in single direction.For Example - Singly Linked List
+    * Bidirectional Iterators:
+    
+      Forward Iterator that can move in both directions.
+    * Random-Access Iterators:
+    
+      Random Access Iterator is an iterator that can read/write in both directions and also can take jumps.
   
 <h3 align="center">Utility Library</h3>
 
