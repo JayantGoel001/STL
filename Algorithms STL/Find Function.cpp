@@ -18,4 +18,5 @@ int main(){
     else{
         cout<<it-ar<<endl;
     }
+    
 }
