@@ -49,7 +49,7 @@ int main(){
     sort(v.begin(),v.end(),compare);
     cout<<endl;
     for(x:v){
-        cout<<"Name of Car is : "<<x.name<<endl;
+        cout<<"Name of Car is : "<<x.name<<" is at distance "<<x.distance()<<endl;
         cout<<"("<<x.p.first<<" , "<<x.p.second<<")"<<endl;
     }
 
