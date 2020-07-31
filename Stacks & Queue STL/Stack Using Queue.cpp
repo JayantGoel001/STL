@@ -21,13 +21,13 @@ public:
         q1.pop();
         swap(q1,q2);
     }
-    int top(){
+    T top(){
         int lenOfq1 = q1.size();
         for(int i=0;i<lenOfq1-1;i++){
             q2.push(q1.front());
             q1.pop();
         }
-        int topEle = q1.front();
+        T topEle = q1.front();
         q2.push(topEle);
         q1.pop();
         swap(q1,q2);
