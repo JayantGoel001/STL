@@ -15,15 +15,16 @@ public:
         this->name = name;
         this->p = p;
     }
+    double distance(){
+        int x = p.first;
+        int y = p.second;
+        return sqrt(x*x + y*y);
+    }
 };
-double distance(int x,int y){
-    return sqrt(x*x + y*y);
-}
+
 bool compare(Cars c1,Cars c2){
-    pair<int,int> p1 = c1.p;
-    pair<int,int> p2 = c2.p;
-    double dist1 = distance(p1.first,p1.second);
-    double dist2 = distance(p2.first,p2.second);
+    double dist1 = c1.distance();
+    double dist2 = c2.distance();
     if(dist1 == dist2){
         return c1.name<=c2.name;
     }
