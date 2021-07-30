@@ -1,4 +1,7 @@
 # STL (Standard Template Library)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions such as lists, stacks, arrays, etc. It is a library of container classes, algorithms, and iterators. It is a generalized library and so, its components are parameterized. A working knowledge of template classes is a prerequisite for working with STL.
 
@@ -95,3 +98,23 @@ As the name suggests, iterators are used for working upon a sequence of values. 
 Defined in header "utility".
 
   * pair
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="https://github.com/JayantGoel001/STL/commits?author=JayantGoel001" title="Code">💻</a> <a href="#ideas-JayantGoel001" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/JayantGoel001/STL/commits?author=JayantGoel001" title="Tests">⚠️</a> <a href="#maintenance-JayantGoel001" title="Maintenance">🚧</a> <a href="https://github.com/JayantGoel001/STL/commits?author=JayantGoel001" title="Documentation">📖</a> <a href="#content-JayantGoel001" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
