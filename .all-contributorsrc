@@ -18,6 +18,15 @@
         "doc",
         "content"
       ]
+    },
+    {
+      "login": "tdutybqs",
+      "name": "Евгений",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35998945?v=4",
+      "profile": "https://github.com/tdutybqs",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
